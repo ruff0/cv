@@ -1,5 +1,5 @@
 
-title: Jose
+title: Alberto Ureña
 url: 'http://github.com/ruff0'
 baseurl: '/cv' #change it according to your repository name
 
@@ -13,12 +13,12 @@ baseurl: '/cv' #change it according to your repository name
 
 
 #Profile information
-name: Jose Barbosa
+name: Alberto Ureña
 tagline: Full Stack Developer
 pic: 2n(1).jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: jose.barbosa@polimentes.com
+email: alberto@400tres.com
 phone: 314 131 6653
 website: 400tres.com #do not add http://
 linkedin: ruff0
